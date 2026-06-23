@@ -3,6 +3,7 @@ import Hero from "../components/Hero";
 import Card from "../components/Card";
 import Footer from "../components/Footer";
 
+
 export default function Home() {
   return (
     <>
@@ -10,7 +11,7 @@ export default function Home() {
 
       <Hero />
 
-      <section className="max-w-6xl mx-auto p-6">
+      <section className="max-w-6xl mx-auto py-12 px-6 bg-white dark:bg-gray-900 text-black dark:text-white">
         <h2 className="text-3xl font-bold text-center mb-6">
           Featured Crops
         </h2>
