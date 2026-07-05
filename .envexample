@@ -1,0 +1,2 @@
+MONGO_URI=mongodb://database_user_id:password@ac-zmtvo0y-shard-00-00.bwsaezc.mongodb.net:27017,ac-zmtvo0y-shard-00-01.bwsaezc.mongodb.net:27017,ac-zmtvo0y-shard-00-02.bwsaezc.mongodb.net:27017/agri_chatbot?ssl=true&replicaSet=atlas-i1rvcy-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
+PORT=5000
